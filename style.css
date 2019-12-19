@@ -163,16 +163,16 @@ body, html {
     font-size: 1.25rem;
   }
   
-  .ft-legal {
+  .footer-legal {
     padding: 0.9375rem 1.875rem;
     background-color: #333;
   }
-  .ft-legal-list {
+  .footer-legal-list {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
   }
-  .ft-legal-list li {
+  .footer-legal-list li {
     margin: 0.125rem 0.625rem;
     white-space: nowrap;
   }
