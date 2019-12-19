@@ -1,3 +1,7 @@
+#### Link to website: 
+Netlify - I was having trouble logging in to my netlify account. Couldn't resolve the issue before the deadline.
+Github - https://github.com/augam8/portfolio
+
 ### DESCRIPTION:
 
 This portfolio was designed to provide the user (target audience) a means to know more about me, my skills and most importantly to be able to contact me. This portfolio showcases and summarises all the things I have done during my course at Coder Academy. This personal website also highlights my coding abilities and design style as an inspiring full stack developer. 
@@ -59,8 +63,8 @@ This website includes alt text on all images to ensure compatibility with screen
 There were no serious threat and ethical considerations as this project is published as open source. It is important that my web folio is accessible to anyone. I didn’t have to show my email on my site, so the contact form is really great concealing that. Using Netlify and SRI made it 
 ### DESIGN VARIATIONS:
 There are three variations to the overall design of my website which have been deployed in my github account and can be accessed in the below links.
-Githublink v1 – dark mode
-Github link v2 – changed background
+Githublink v1 – change-background
+Github link v2 – change-font-color
 
 
 ### KEY CHALLENGES:
@@ -74,7 +78,7 @@ Portfolio – My projects and services
 Contact – Form to get in touch with me
 Blog – Blog about anything
 
-![sitemap](sitemap.pdf)
+![sitemap](sitemap.png)
 
  
 
