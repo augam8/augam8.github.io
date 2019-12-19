@@ -1,5 +1,9 @@
 #### Link to website: 
 Netlify - I was having trouble logging in to my netlify account. Couldn't resolve the issue before the deadline.
+
+https://augam8.github.io/ 
+I was able to use github to deploy my website.
+
 Github - https://github.com/augam8/portfolio
 
 ### DESCRIPTION:
